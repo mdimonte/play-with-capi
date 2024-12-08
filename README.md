@@ -88,13 +88,6 @@ clusterctl generate provider --infrastructure docker --describe
 # clusterctl generate cluster my-cluster --<provider-type> <provider-name> --list-variables
 clusterctl generate cluster my-cluster --infrastructure vsphere:v1.10.2 --list-variables
 
-Mickael Di-Monte
-	
-9:00 AM (13 hours ago)
-	
-to me
-Basic commands:
- 
 # get the list of available providers
 clusterctl config repositories
  
